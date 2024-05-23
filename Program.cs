@@ -24,5 +24,3 @@ numeroDecremento--;
 Console.WriteLine(numeroDecremento);
 
 calc.RaizQuadrada(9);
-
-
