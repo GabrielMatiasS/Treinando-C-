@@ -1,7 +1,7 @@
 
 #DIO | Testando meus conhecimentos com operadores.
 
-Repósitorio para adicionar os codigos que foram feitos furante as Aulas do Bootcamp da DIO.
+Repósitorio para adicionar os codigos que foram feitos durante as Aulas do Bootcamp de .NET com a DIO.
 [(https://www.dio.me/)]
 
 # 📚 Documentação 
