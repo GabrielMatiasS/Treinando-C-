@@ -1,6 +1,4 @@
 ﻿using ExemplosFundamentos;
-using ExemplosFundamentos.Models;
-
 
 Calculadora calc = new Calculadora();
 
